@@ -98,6 +98,45 @@ Smart-Cart/
 
 ---
 
+## 💼 Business Insights
+
+### 🟢 Cluster 1: High-Value Customers
+- High income and high spending across multiple categories
+- Likely loyal customers with strong purchasing power
+
+📌 Strategy:
+- Target with premium products
+- Offer loyalty rewards exclusive deals and personalized recommendations
+
+---
+
+### 🟡 Cluster 2: Budget-Conscious Customers
+- Lower spending, high usage of discounts
+- Price-sensitive behavior
+
+📌 Strategy:
+- Provide high discount offers and bundle deals
+- Use promotional campaigns
+
+---
+
+### 🔴 Cluster 3: Low Engagement Customers
+- Low purchases and high recency (inactive users)
+
+📌 Strategy:
+- Send re-engagement emails
+- Offer limited-time discounts
+- Personalized recommendations
+
+---
+
+### 🔵 Cluster 4: Moderate Customers
+- Average spending and engagement
+
+📌 Strategy:
+- Upsell products
+- Encourage higher engagement through offers
+
 
 ## 🔮 Future Improvements
 
