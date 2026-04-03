@@ -21,6 +21,8 @@ This project aims to solve this problem by building an intelligent **customer se
 * Support data-driven marketing decisions
 
 ---
+## 📂 Dataset
+Dataset used: `smartcart_customers.csv` (included in repository)
 
 ## 📊 Dataset Description
 
